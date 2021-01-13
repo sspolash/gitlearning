@@ -1,0 +1,3 @@
+Hello I am Polash. 
+I am learning Git & git hub. 
+I am using vim. 

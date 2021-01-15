@@ -3,3 +3,10 @@ I am learning Git & git hub.
 I am using vim. 
 
 I have commited before but now I am changing this once more. I want to see the power of git.
+
+I am first time learning in Git and Github. It is really awesome. 
+
+This virsion Controlling systems very high secured. 
+
+Thank You, 
+Md. Fazlur Rahman
